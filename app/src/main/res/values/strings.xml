@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Java Learning Audio Player 2.0</string>
+    <string name="text_header">Приложение аудио плейер 2.0</string>
+    <string name="text_trek_name">Название трека</string>
+</resources>
